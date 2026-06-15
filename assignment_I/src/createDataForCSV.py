@@ -1,4 +1,3 @@
-# Run this once to automatically create the demo CSV file
 import csv
 
 demo_data = [

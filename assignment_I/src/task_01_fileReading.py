@@ -1,4 +1,4 @@
-# Program to store student names in a file and read i
+# program to store student names in a file and read i
 
 students = []
 print("Enter student names (type 'done' when finished):")

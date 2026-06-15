@@ -1,4 +1,4 @@
-# Program to manage student records using a dictionary
+# program to manage student records using a dictionary
 student_records = {}
 
 while True:
